@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import express from 'express';
 import axios from 'axios';
 import https from 'https';
